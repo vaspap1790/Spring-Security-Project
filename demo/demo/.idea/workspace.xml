@@ -4,10 +4,8 @@
     <list default="true" id="14290795-a64f-4529-96e5-1b0d70821388" name="Default Changelist" comment="In Memory User Implementation - BCrypt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/security/ApplicationSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/security/ApplicationSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/security/ApplicationUserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/security/ApplicationUserRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/student/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/student/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/student/StudentManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/student/StudentManagementController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/security/ApplicationSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/security/ApplicationSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/student/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,22 +115,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="485" y="114" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577182546175" />
-    <state width="1877" height="216" key="GridCell.Tab.0.bottom" timestamp="1577193872446">
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom" timestamp="1577194811780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577193872446" />
-    <state width="1877" height="216" key="GridCell.Tab.0.center" timestamp="1577193872446">
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577194811780" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center" timestamp="1577194811780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="216" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577193872446" />
-    <state width="1877" height="216" key="GridCell.Tab.0.left" timestamp="1577193872446">
+    <state width="1877" height="216" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577194811780" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left" timestamp="1577194811779">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="216" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577193872446" />
-    <state width="1877" height="216" key="GridCell.Tab.0.right" timestamp="1577193872446">
+    <state width="1877" height="216" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577194811779" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right" timestamp="1577194811780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="216" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577193872446" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1577194811780" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1577182452733">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
